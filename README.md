@@ -26,7 +26,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-alpay--hassan-blue">
      </a>
     <a href="https://alpayhassan.com">
-      <img src="https://img.shields.io/badge/Portfolio-alpay--hassan-grey">
+      <img src="https://img.shields.io/badge/Portfolio-alpayhassan-green">
      </a>
   </p>
 </h1>
