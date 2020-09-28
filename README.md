@@ -22,7 +22,7 @@
 ✨ where you can find me ✨
   
   <p align="center"><br/>
-     <a href="www.linkedin.com/in/alpayhassan">
+     <a href="https://www.linkedin.com/in/alpayhassan">
       <img src="https://img.shields.io/badge/LinkedIn-alpay--hassan-blue">
      </a>
     <a href="https://alpayhassan.com">
