@@ -11,7 +11,7 @@
 - HTML & CSS
 - PostgreSQL
 
-### 👧 A little about myself:
+### 👨 A little about myself:
 - I'm 22 years old, and I live in London, UK.
 - I am a physics graduate from Durham University
 - I love football ⚽ and cats 🐱
