@@ -23,7 +23,7 @@
   
   <p align="center"><br/>
      <a href="https://www.linkedin.com/in/alpay-hassan-056b55166/">
-      <img src="https://img.shields.io/badge/linkedin-alpay-hassan-blue">
+      <img src="https://img.shields.io/badge/linkedin-alpay--hassan-blue">
      </a>
   </p>
 </h1>
