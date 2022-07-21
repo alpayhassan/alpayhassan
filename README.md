@@ -1,9 +1,12 @@
 <h1 align="center"> Hey there, I'm Alpay! </h1>
 <h3 align="center">🚀 Aspiring Cloud Engineer 🚀</h3>
 
-<img src="https://yata-apix-a9caea66-ad78-425f-aa08-e292558ebb65.lss.locawebcorp.com.br/b7c7dbff38ae4f419c94ce8d2254b9d9.png"> 
-
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif" />
+
+### ☁️ Cloud Skills & Certs:
+- AZ 900
+- AZ 104
+- Terraform
 
 ### 💻 Tech Stacks:
 - ReactJS & Redux
@@ -24,9 +27,6 @@
   <p align="center"><br/>
      <a href="https://www.linkedin.com/in/alpayhassan">
       <img src="https://img.shields.io/badge/LinkedIn-alpay--hassan-blue">
-     </a>
-    <a href="https://alpayhassan.com">
-      <img src="https://img.shields.io/badge/Portfolio-alpayhassan-green">
      </a>
   </p>
 </h1>
