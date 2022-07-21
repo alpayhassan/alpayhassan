@@ -1,5 +1,5 @@
 <h1 align="center"> Hey there, I'm Alpay! </h1>
-<h3 align="center">🚀 Fullstack Developer 🚀</h3>
+<h3 align="center">🚀 Aspiring Cloud Engineer 🚀</h3>
 
 <img src="https://yata-apix-a9caea66-ad78-425f-aa08-e292558ebb65.lss.locawebcorp.com.br/b7c7dbff38ae4f419c94ce8d2254b9d9.png"> 
 
@@ -12,7 +12,7 @@
 - PostgreSQL
 
 ### 👨 A little about myself:
-- I'm 22 years old, and I live in London, UK.
+- I'm 24 years old, and I live in London, UK.
 - I am a physics graduate from Durham University
 - I love football ⚽ and cats 🐱
 
