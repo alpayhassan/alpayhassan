@@ -15,7 +15,7 @@
 - PostgreSQL
 
 ### 👨 A little about myself:
-- I'm 24 years old, and I live in London, UK.
+- I'm 24 years old, and I live in London
 - I am a physics graduate from Durham University
 - I love football ⚽ and cats 🐱
 
