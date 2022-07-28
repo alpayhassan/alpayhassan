@@ -1,5 +1,5 @@
 <h1 align="center"> Hey there, I'm Alpay! </h1>
-<h3 align="center">🚀 Aspiring Cloud Engineer 🚀</h3>
+<h3 align="center">🚀 Graduate Cloud Engineer 🚀</h3>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif" />
 
